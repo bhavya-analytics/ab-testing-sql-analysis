@@ -45,6 +45,17 @@ This project is designed to answer:
 
 Based on the analysis, Variant B outperforms Variant A on conversion and revenue efficiency. Segment-level analysis also helps identify which device types and regions show the strongest response to the experiment.
 
+## Final Recommendation
+
+Based on the analysis, Variant B demonstrates higher conversion rates and stronger revenue performance across multiple segments. 
+
+Recommendation:
+- Roll out Variant B to all users
+- Continue monitoring performance with larger sample sizes
+- Conduct follow-up experiments for optimization
+
+This reflects how experimentation results are translated into business decisions.
+
 ## Business Recommendation
 
 If the observed pattern continues at scale, Variant B should be prioritized because it delivers stronger conversion performance and higher revenue contribution. Additional testing with larger samples would strengthen decision confidence.
@@ -71,3 +82,7 @@ This project demonstrates how experimentation and KPI analysis can be used to:
 - Add funnel analysis for multi-step conversion journeys
 - Visualize experiment results in Power BI or Tableau
 - Extend analysis to retention and cohort behavior
+
+## Visualization (Sample)
+
+![Experiment Results](docs/sample-chart.png)
