@@ -45,6 +45,10 @@ This project is designed to answer:
 
 Based on the analysis, Variant B outperforms Variant A on conversion and revenue efficiency. Segment-level analysis also helps identify which device types and regions show the strongest response to the experiment.
 
+## Visualization
+
+![A/B Test Results](docs/sample-chart.png)
+
 ## Final Recommendation
 
 Based on the analysis, Variant B demonstrates higher conversion rates and stronger revenue performance across multiple segments. 
@@ -83,6 +87,4 @@ This project demonstrates how experimentation and KPI analysis can be used to:
 - Visualize experiment results in Power BI or Tableau
 - Extend analysis to retention and cohort behavior
 
-## Visualization (Sample)
 
-![Experiment Results](docs/sample-chart.png)
